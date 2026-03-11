@@ -1,5 +1,1 @@
-streamlit
-pandas
-plotly
-openai
-python-dotenv
+wheel==0.45.1
