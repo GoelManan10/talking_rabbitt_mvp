@@ -56,12 +56,12 @@ Create a chart
 
 Provide a business insight
 
-👨‍💻 Author
+Problem : 
+I faced an issue related to the API key during deployment on Streamlit Cloud. The application works perfectly on my local environment (localhost), where the API key is successfully fetched and the system runs without any errors.
 
+However, after deploying the project on Streamlit Cloud, the application is unable to fetch the API key. As a result, the API-dependent functionalities are not working properly in the deployed version.
+
+Despite verifying the code and ensuring that the environment variables are correctly configured, Streamlit Cloud still fails to retrieve the API key during runtime. The issue appears to be specific to the deployment environment rather than the local setup.
+
+Author
 Manan Goel
-BTech CSE – Chitkara University
-BS Data Science – IIT Madras
-Major in AI – IIT Ropar
-
-LinkedIn:
-www.linkedin.com/in/manan-goel-9192b9278
